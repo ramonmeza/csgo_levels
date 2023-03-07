@@ -4,7 +4,7 @@ A repository for my Counter-Strike: Global Offensive maps.
 
 ## Hammer++ Options
 
-Here are my settings in Hammer++, accessible through `Tools > Options` from the top toolbar.
+Here are my settings in [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), accessible through `Tools > Options` from the top toolbar.
 
 | **Category**        | **Option**                      | **Value**                     |
 | ------------------- | ------------------------------- | ----------------------------- |
