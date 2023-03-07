@@ -1,0 +1,136 @@
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\aim_loadingdock.vmf
+Map revision 1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\aim_loadingdock.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (21893 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 90 texinfos to 58
+Reduced 5 texdatas to 5 (106 bytes to 106)
+Writing E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\sdk_content\maps\aim_loadingdock.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\aim_loadingdock.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading e:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\aim_loadingdock.bsp
+reading e:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\aim_loadingdock.prt
+ 114 portalclusters
+ 276 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 8626
+Average clusters visible: 75
+Building PAS...
+Average clusters audible: 114
+visdatasize:4437  compressed from 3648
+writing e:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\aim_loadingdock.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\aim_loadingdock.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading e:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\aim_loadingdock.bsp
+278 faces
+130732 square feet [18825488.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+278 patches before subdivision
+6606 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 450856, max 283
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(59680, 20263, 6899)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(17078, 2457, 258)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5569, 324, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1942, 46, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(705, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(261, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(98, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(37, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0012 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                 60/8192          720/98304    ( 0.7%) 
+brushsides             368/81920        2944/655360   ( 0.4%) 
+planes                 148/65536        2960/1310720  ( 0.2%) 
+vertexes               535/65536        6420/786432   ( 0.8%) 
+nodes                  303/65536        9696/2097152  ( 0.5%) 
+texinfos                58/12288        4176/884736   ( 0.5%) 
+texdata                  5/4096          160/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  278/65536       15568/3670016  ( 0.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              134/65536        7504/3670016  ( 0.2%) 
+facebrushes             12/0              24/0        ( 0.0%) 
+facebrushlists         278/0            1112/0        ( 0.0%) 
+leaves                 307/65536        9824/2097152  ( 0.5%) 
+leaffaces              332/65536         664/131072   ( 0.5%) 
+leafbrushes            168/65536         336/131072   ( 0.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             1820/512000       7280/2048000  ( 0.4%) 
+edges                 1092/256000       4368/1024000  ( 0.4%) 
+LDR worldlights          8/8192          800/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             26/32768         260/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           372/65536         744/131072   ( 0.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      208672/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4437/16777216 ( 0.0%) 
+entdata               [variable]        2855/393216   ( 0.7%) 
+LDR ambient table      307/65536        1228/262144   ( 0.5%) 
+HDR ambient table      307/65536        1228/262144   ( 0.5%) 
+LDR leaf ambient      1507/65536       42196/1835008  ( 2.3%) 
+HDR leaf ambient       307/65536        8596/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74458/0        ( 0.0%) 
+physics               [variable]       21893/4194304  ( 0.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7d
+
+Total triangle count: 728
+Writing e:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\aim_loadingdock.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'e:\steamlibrary\steamapps\common\counter-strike global offensive\sdk_content\maps\aim_loadingdock.bsp', but we don't own that location. Allowing...
+1 second elapsed

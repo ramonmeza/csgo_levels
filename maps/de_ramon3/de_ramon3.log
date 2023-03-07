@@ -1,0 +1,2212 @@
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 16
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 243 texinfos to 165
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 233 portalclusters
+ 757 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 196 visible clusters (0.00%)
+Total clusters visible: 29503
+Average clusters visible: 126
+Building PAS...
+Average clusters audible: 232
+visdatasize:15806  compressed from 14912
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+495 faces
+165656 square feet [23854544.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+495 patches before subdivision
+7011 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 328252, max 307
+transfer lists:   2.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(137693, 42067, 5822)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38885, 4129, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12491, 439, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4068, 48, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1369, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(463, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(159, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(55, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0010 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                126/8192         1512/98304    ( 1.5%) 
+brushsides             812/81920        6496/655360   ( 1.0%) 
+planes                 572/65536       11440/1310720  ( 0.9%) 
+vertexes               933/65536       11196/786432   ( 1.4%) 
+nodes                  479/65536       15328/2097152  ( 0.7%) 
+texinfos               165/12288       11880/884736   ( 1.3%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  495/65536       27720/3670016  ( 0.8%) 
+hdr faces              495/65536       27720/3670016  ( 0.8%) 
+origfaces              305/65536       17080/3670016  ( 0.5%) 
+facebrushes             76/0             152/0        ( 0.0%) 
+facebrushlists         495/0            1980/0        ( 0.0%) 
+leaves                 482/65536       15424/2097152  ( 0.7%) 
+leaffaces              592/65536        1184/131072   ( 0.9%) 
+leafbrushes            356/65536         712/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3526/512000      14104/2048000  ( 0.7%) 
+edges                 2102/256000       8408/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             50/32768         500/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           798/65536        1596/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      270708/0        ( 0.0%) 
+visdata               [variable]       15806/16777216 ( 0.1%) 
+entdata               [variable]         870/393216   ( 0.2%) 
+LDR ambient table      482/65536        1928/262144   ( 0.7%) 
+HDR ambient table      482/65536        1928/262144   ( 0.7%) 
+LDR leaf ambient       482/65536       13496/1835008  ( 0.7%) 
+HDR leaf ambient      2768/65536       77504/1835008  ( 4.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       45537/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 1318
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 16
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45537 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 243 texinfos to 165
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 233 portalclusters
+ 757 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 196 visible clusters (0.00%)
+Total clusters visible: 29503
+Average clusters visible: 126
+Building PAS...
+Average clusters audible: 232
+visdatasize:15806  compressed from 14912
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+495 faces
+165656 square feet [23854544.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+495 patches before subdivision
+7011 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 328252, max 307
+transfer lists:   2.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(137693, 42067, 5822)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38885, 4129, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12491, 439, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4068, 48, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1369, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(463, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(159, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(55, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0012 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                126/8192         1512/98304    ( 1.5%) 
+brushsides             812/81920        6496/655360   ( 1.0%) 
+planes                 572/65536       11440/1310720  ( 0.9%) 
+vertexes               933/65536       11196/786432   ( 1.4%) 
+nodes                  479/65536       15328/2097152  ( 0.7%) 
+texinfos               165/12288       11880/884736   ( 1.3%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  495/65536       27720/3670016  ( 0.8%) 
+hdr faces              495/65536       27720/3670016  ( 0.8%) 
+origfaces              305/65536       17080/3670016  ( 0.5%) 
+facebrushes             76/0             152/0        ( 0.0%) 
+facebrushlists         495/0            1980/0        ( 0.0%) 
+leaves                 482/65536       15424/2097152  ( 0.7%) 
+leaffaces              592/65536        1184/131072   ( 0.9%) 
+leafbrushes            356/65536         712/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3526/512000      14104/2048000  ( 0.7%) 
+edges                 2102/256000       8408/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             50/32768         500/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           798/65536        1596/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      270708/0        ( 0.0%) 
+visdata               [variable]       15806/16777216 ( 0.1%) 
+entdata               [variable]         870/393216   ( 0.2%) 
+LDR ambient table      482/65536        1928/262144   ( 0.7%) 
+HDR ambient table      482/65536        1928/262144   ( 0.7%) 
+LDR leaf ambient       482/65536       13496/1835008  ( 0.7%) 
+HDR leaf ambient      2768/65536       77504/1835008  ( 4.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       45537/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 1318
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 17
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45913 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 247 texinfos to 167
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 235 portalclusters
+ 763 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 202 visible clusters (0.00%)
+Total clusters visible: 29927
+Average clusters visible: 127
+Building PAS...
+Average clusters audible: 234
+visdatasize:15893  compressed from 15040
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+501 faces
+165656 square feet [23854544.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+501 patches before subdivision
+6995 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 328481, max 307
+transfer lists:   2.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(136335, 41698, 5806)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38485, 4089, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12344, 434, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4020, 47, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1353, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(458, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(157, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(54, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                127/8192         1524/98304    ( 1.6%) 
+brushsides             818/81920        6544/655360   ( 1.0%) 
+planes                 574/65536       11480/1310720  ( 0.9%) 
+vertexes               943/65536       11316/786432   ( 1.4%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos               167/12288       12024/884736   ( 1.4%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  501/65536       28056/3670016  ( 0.8%) 
+hdr faces              501/65536       28056/3670016  ( 0.8%) 
+origfaces              308/65536       17248/3670016  ( 0.5%) 
+facebrushes             76/0             152/0        ( 0.0%) 
+facebrushlists         501/0            2004/0        ( 0.0%) 
+leaves                 485/65536       15520/2097152  ( 0.7%) 
+leaffaces              598/65536        1196/131072   ( 0.9%) 
+leafbrushes            357/65536         714/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3568/512000      14272/2048000  ( 0.7%) 
+edges                 2126/256000       8504/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             50/32768         500/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           801/65536        1602/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      271276/0        ( 0.0%) 
+visdata               [variable]       15893/16777216 ( 0.1%) 
+entdata               [variable]         759/393216   ( 0.2%) 
+LDR ambient table      485/65536        1940/262144   ( 0.7%) 
+HDR ambient table      485/65536        1940/262144   ( 0.7%) 
+LDR leaf ambient       485/65536       13580/1835008  ( 0.7%) 
+HDR leaf ambient      2801/65536       78428/1835008  ( 4.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       45913/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 1336
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 19
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (46665 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 249 texinfos to 168
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 234 portalclusters
+ 757 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 196 visible clusters (0.00%)
+Total clusters visible: 29528
+Average clusters visible: 126
+Building PAS...
+Average clusters audible: 233
+visdatasize:15840  compressed from 14976
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+500 faces
+165646 square feet [23853152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+500 patches before subdivision
+7010 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 326076, max 305
+transfer lists:   2.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(136890, 41787, 5753)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38451, 4078, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12325, 432, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4023, 47, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1355, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(460, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(158, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(55, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0010 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                129/8192         1548/98304    ( 1.6%) 
+brushsides             833/81920        6664/655360   ( 1.0%) 
+planes                 576/65536       11520/1310720  ( 0.9%) 
+vertexes               946/65536       11352/786432   ( 1.4%) 
+nodes                  482/65536       15424/2097152  ( 0.7%) 
+texinfos               168/12288       12096/884736   ( 1.4%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  500/65536       28000/3670016  ( 0.8%) 
+hdr faces              500/65536       28000/3670016  ( 0.8%) 
+origfaces              310/65536       17360/3670016  ( 0.5%) 
+facebrushes             81/0             162/0        ( 0.0%) 
+facebrushlists         500/0            2000/0        ( 0.0%) 
+leaves                 485/65536       15520/2097152  ( 0.7%) 
+leaffaces              599/65536        1198/131072   ( 0.9%) 
+leafbrushes            360/65536         720/131072   ( 0.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3568/512000      14272/2048000  ( 0.7%) 
+edges                 2129/256000       8516/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             50/32768         500/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           801/65536        1602/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      271256/0        ( 0.0%) 
+visdata               [variable]       15840/16777216 ( 0.1%) 
+entdata               [variable]         759/393216   ( 0.2%) 
+LDR ambient table      485/65536        1940/262144   ( 0.7%) 
+HDR ambient table      485/65536        1940/262144   ( 0.7%) 
+LDR leaf ambient       485/65536       13580/1835008  ( 0.7%) 
+HDR leaf ambient      2769/65536       77532/1835008  ( 4.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       46665/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 1330
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 21
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (224.00 176.00 160.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45332 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 252 texinfos to 169
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+LoadPortals: couldn't read d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 22
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (224.00 176.00 160.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45332 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 252 texinfos to 169
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+LoadPortals: couldn't read d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 22
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (224.00 176.00 160.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45332 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 252 texinfos to 169
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+LoadPortals: couldn't read d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 23
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (47449 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 171
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 247 portalclusters
+ 803 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 167 visible clusters (0.00%)
+Total clusters visible: 35180
+Average clusters visible: 142
+Building PAS...
+Average clusters audible: 247
+visdatasize:17291  compressed from 15808
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 26
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (60025 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 285 texinfos to 162
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 162 portalclusters
+ 502 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 72 visible clusters (0.00%)
+Total clusters visible: 14878
+Average clusters visible: 91
+Building PAS...
+Average clusters audible: 160
+visdatasize:8055  compressed from 7776
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 28
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_counterterrorist (80.00 176.00 16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45580 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 170
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+LoadPortals: couldn't read d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 29
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_counterterrorist (80.00 176.00 16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (45580 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 255 texinfos to 170
+Reduced 5 texdatas to 5 (108 bytes to 108)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+LoadPortals: couldn't read d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 30
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (47697 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 258 texinfos to 172
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 251 portalclusters
+ 810 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 153 visible clusters (0.00%)
+Total clusters visible: 35796
+Average clusters visible: 142
+Building PAS...
+Average clusters audible: 250
+visdatasize:18064  compressed from 16064
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+511 faces
+234474 square feet [33764284.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+511 patches before subdivision
+7015 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 336925, max 296
+transfer lists:   2.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(135942, 41598, 5816)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(38634, 4107, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12493, 439, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4119, 48, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1399, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(479, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(166, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(58, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(20, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0010 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                132/8192         1584/98304    ( 1.6%) 
+brushsides             850/81920        6800/655360   ( 1.0%) 
+planes                 574/65536       11480/1310720  ( 0.9%) 
+vertexes               976/65536       11712/786432   ( 1.5%) 
+nodes                  506/65536       16192/2097152  ( 0.8%) 
+texinfos               172/12288       12384/884736   ( 1.4%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  511/65536       28616/3670016  ( 0.8%) 
+hdr faces              511/65536       28616/3670016  ( 0.8%) 
+origfaces              313/65536       17528/3670016  ( 0.5%) 
+facebrushes             84/0             168/0        ( 0.0%) 
+facebrushlists         511/0            2044/0        ( 0.0%) 
+leaves                 509/65536       16288/2097152  ( 0.8%) 
+leaffaces              611/65536        1222/131072   ( 0.9%) 
+leafbrushes            362/65536         724/131072   ( 0.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             3623/512000      14492/2048000  ( 0.7%) 
+edges                 2152/256000       8608/1024000  ( 0.8%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             54/32768         540/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           858/65536        1716/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      272396/0        ( 0.0%) 
+visdata               [variable]       18064/16777216 ( 0.1%) 
+entdata               [variable]         879/393216   ( 0.2%) 
+LDR ambient table      509/65536        2036/262144   ( 0.8%) 
+HDR ambient table      509/65536        2036/262144   ( 0.8%) 
+LDR leaf ambient       509/65536       14252/1835008  ( 0.8%) 
+HDR leaf ambient      3108/65536       87024/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       47697/4194304  ( 1.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 1351
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 35
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_counterterrorist (80.00 176.00 16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (54383 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 291 texinfos to 189
+Reduced 6 texdatas to 6 (131 bytes to 131)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+LoadPortals: couldn't read d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 36
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (56764 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 292 texinfos to 192
+Reduced 7 texdatas to 7 (149 bytes to 149)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 323 portalclusters
+1022 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 243 visible clusters (0.00%)
+Total clusters visible: 53546
+Average clusters visible: 165
+Building PAS...
+Average clusters audible: 322
+visdatasize:28745  compressed from 31008
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+706 faces
+263684 square feet [37970600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+706 patches before subdivision
+11728 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 590626, max 364
+transfer lists:   4.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(218575, 67896, 10228)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(57535, 6277, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(17891, 640, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5894, 69, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2016, 8, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(720, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(263, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(101, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0017 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                156/8192         1872/98304    ( 1.9%) 
+brushsides            1004/81920        8032/655360   ( 1.2%) 
+planes                 656/65536       13120/1310720  ( 1.0%) 
+vertexes              1336/65536       16032/786432   ( 2.0%) 
+nodes                  669/65536       21408/2097152  ( 1.0%) 
+texinfos               192/12288       13824/884736   ( 1.6%) 
+texdata                  7/4096          224/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  706/65536       39536/3670016  ( 1.1%) 
+hdr faces              706/65536       39536/3670016  ( 1.1%) 
+origfaces              369/65536       20664/3670016  ( 0.6%) 
+facebrushes             96/0             192/0        ( 0.0%) 
+facebrushlists         706/0            2824/0        ( 0.0%) 
+leaves                 672/65536       21504/2097152  ( 1.0%) 
+leaffaces              818/65536        1636/131072   ( 1.2%) 
+leafbrushes            455/65536         910/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4807/512000      19228/2048000  ( 0.9%) 
+edges                 2877/256000      11508/1024000  ( 1.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             81/32768         810/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1284/65536        2568/131072   ( 2.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      441756/0        ( 0.0%) 
+visdata               [variable]       28745/16777216 ( 0.2%) 
+entdata               [variable]         756/393216   ( 0.2%) 
+LDR ambient table      672/65536        2688/262144   ( 1.0%) 
+HDR ambient table      672/65536        2688/262144   ( 1.0%) 
+LDR leaf ambient       672/65536       18816/1835008  ( 1.0%) 
+HDR leaf ambient      4011/65536      112308/1835008  ( 6.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       56764/4194304  ( 1.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 1921
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 37
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (57988 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 313 texinfos to 200
+Reduced 7 texdatas to 7 (149 bytes to 149)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 336 portalclusters
+1061 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 213 visible clusters (0.00%)
+Total clusters visible: 57365
+Average clusters visible: 170
+Building PAS...
+Average clusters audible: 335
+visdatasize:30711  compressed from 32256
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+745 faces
+265453 square feet [38225336.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+745 patches before subdivision
+12095 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 604665, max 370
+transfer lists:   4.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(228826, 69756, 8989)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64886, 6776, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(21892, 732, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7741, 82, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2873, 10, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1098, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(432, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(174, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(72, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0040 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1..
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 38
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58380 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 317 texinfos to 201
+Reduced 7 texdatas to 7 (149 bytes to 149)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 346 portalclusters
+1105 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 263 visible clusters (0.00%)
+Total clusters visible: 62603
+Average clusters visible: 180
+Building PAS...
+Average clusters audible: 345
+visdatasize:33064  compressed from 33216
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+759 faces
+316406 square feet [45562536.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+759 patches before subdivision
+13173 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 651275, max 379
+transfer lists:   5.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(240488, 73968, 10200)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(66856, 7080, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(22280, 755, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7841, 84, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2899, 10, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1106, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(435, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(175, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(72, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0019 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                160/8192         1920/98304    ( 2.0%) 
+brushsides            1023/81920        8184/655360   ( 1.2%) 
+planes                 670/65536       13400/1310720  ( 1.0%) 
+vertexes              1422/65536       17064/786432   ( 2.2%) 
+nodes                  704/65536       22528/2097152  ( 1.1%) 
+texinfos               201/12288       14472/884736   ( 1.6%) 
+texdata                  7/4096          224/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  759/65536       42504/3670016  ( 1.2%) 
+hdr faces              759/65536       42504/3670016  ( 1.2%) 
+origfaces              386/65536       21616/3670016  ( 0.6%) 
+facebrushes             90/0             180/0        ( 0.0%) 
+facebrushlists         759/0            3036/0        ( 0.0%) 
+leaves                 707/65536       22624/2097152  ( 1.1%) 
+leaffaces              876/65536        1752/131072   ( 1.3%) 
+leafbrushes            462/65536         924/131072   ( 0.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5140/512000      20560/2048000  ( 1.0%) 
+edges                 3081/256000      12324/1024000  ( 1.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             92/32768         920/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1446/65536        2892/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      506900/0        ( 0.0%) 
+visdata               [variable]       33064/16777216 ( 0.2%) 
+entdata               [variable]         756/393216   ( 0.2%) 
+LDR ambient table      707/65536        2828/262144   ( 1.1%) 
+HDR ambient table      707/65536        2828/262144   ( 1.1%) 
+LDR leaf ambient       707/65536       19796/1835008  ( 1.1%) 
+HDR leaf ambient      4314/65536      120792/1835008  ( 6.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       58380/4194304  ( 1.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 2081
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+4 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 39
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (63172 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 357 texinfos to 230
+Reduced 7 texdatas to 7 (149 bytes to 149)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 392 portalclusters
+1272 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 411 visible clusters (0.00%)
+Total clusters visible: 87329
+Average clusters visible: 222
+Building PAS...
+Average clusters audible: 391
+visdatasize:41068  compressed from 43904
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+840 faces
+345427 square feet [49741496.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+840 patches before subdivision
+14654 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 728494, max 401
+transfer lists:   5.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(253423, 77250, 10101)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72770, 7552, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25078, 831, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9035, 96, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3558, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1404, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(643, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(272, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(154, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(68, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(49, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(22, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(20, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0021 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                173/8192         2076/98304    ( 2.1%) 
+brushsides            1105/81920        8840/655360   ( 1.3%) 
+planes                 726/65536       14520/1310720  ( 1.1%) 
+vertexes              1569/65536       18828/786432   ( 2.4%) 
+nodes                  792/65536       25344/2097152  ( 1.2%) 
+texinfos               230/12288       16560/884736   ( 1.9%) 
+texdata                  7/4096          224/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  840/65536       47040/3670016  ( 1.3%) 
+hdr faces              840/65536       47040/3670016  ( 1.3%) 
+origfaces              425/65536       23800/3670016  ( 0.6%) 
+facebrushes             92/0             184/0        ( 0.0%) 
+facebrushlists         840/0            3360/0        ( 0.0%) 
+leaves                 795/65536       25440/2097152  ( 1.2%) 
+leaffaces              971/65536        1942/131072   ( 1.5%) 
+leafbrushes            510/65536        1020/131072   ( 0.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5659/512000      22636/2048000  ( 1.1%) 
+edges                 3393/256000      13572/1024000  ( 1.3%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            105/32768        1050/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1578/65536        3156/131072   ( 2.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      586972/0        ( 0.0%) 
+visdata               [variable]       41068/16777216 ( 0.2%) 
+entdata               [variable]         756/393216   ( 0.2%) 
+LDR ambient table      795/65536        3180/262144   ( 1.2%) 
+HDR ambient table      795/65536        3180/262144   ( 1.2%) 
+LDR leaf ambient       795/65536       22260/1835008  ( 1.2%) 
+HDR leaf ambient      5048/65536      141344/1835008  ( 7.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       63172/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 2286
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+4 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 40
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_counterterrorist (80.00 176.00 16.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (68335 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 377 texinfos to 244
+Reduced 6 texdatas to 6 (131 bytes to 131)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+LoadPortals: couldn't read d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 41
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70420 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 380 texinfos to 245
+Reduced 7 texdatas to 7 (149 bytes to 149)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 412 portalclusters
+1343 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 433 visible clusters (0.00%)
+Total clusters visible: 86967
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 411
+visdatasize:45606  compressed from 46144
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+877 faces
+367135 square feet [52867560.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+877 patches before subdivision
+16323 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 808623, max 431
+transfer lists:   6.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(276484, 84403, 11041)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77377, 8098, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25948, 873, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9247, 99, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3479, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1359, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(550, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(229, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(98, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(43, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                193/8192         2316/98304    ( 2.4%) 
+brushsides            1269/81920       10152/655360   ( 1.5%) 
+planes                 858/65536       17160/1310720  ( 1.3%) 
+vertexes              1659/65536       19908/786432   ( 2.5%) 
+nodes                  831/65536       26592/2097152  ( 1.3%) 
+texinfos               245/12288       17640/884736   ( 2.0%) 
+texdata                  7/4096          224/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  877/65536       49112/3670016  ( 1.3%) 
+hdr faces              877/65536       49112/3670016  ( 1.3%) 
+origfaces              453/65536       25368/3670016  ( 0.7%) 
+facebrushes            114/0             228/0        ( 0.0%) 
+facebrushlists         877/0            3508/0        ( 0.0%) 
+leaves                 834/65536       26688/2097152  ( 1.3%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            555/65536        1110/131072   ( 0.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5953/512000      23812/2048000  ( 1.2%) 
+edges                 3545/256000      14180/1024000  ( 1.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            107/32768        1070/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1629/65536        3258/131072   ( 2.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      635752/0        ( 0.0%) 
+visdata               [variable]       45606/16777216 ( 0.3%) 
+entdata               [variable]         879/393216   ( 0.2%) 
+LDR ambient table      834/65536        3336/262144   ( 1.3%) 
+HDR ambient table      834/65536        3336/262144   ( 1.3%) 
+LDR leaf ambient       834/65536       23352/1835008  ( 1.3%) 
+HDR leaf ambient      5287/65536      148036/1835008  ( 8.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       70420/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 2390
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+5 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 42
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (70420 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 380 texinfos to 245
+Reduced 7 texdatas to 7 (149 bytes to 149)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 412 portalclusters
+1343 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 432 visible clusters (0.00%)
+Total clusters visible: 86968
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 411
+visdatasize:45606  compressed from 46144
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+877 faces
+367135 square feet [52867560.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+877 patches before subdivision
+16323 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 808623, max 431
+transfer lists:   6.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(276484, 84404, 11041)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(77377, 8098, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25948, 873, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9247, 99, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3479, 12, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1359, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(550, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(229, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(98, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(43, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                193/8192         2316/98304    ( 2.4%) 
+brushsides            1269/81920       10152/655360   ( 1.5%) 
+planes                 858/65536       17160/1310720  ( 1.3%) 
+vertexes              1659/65536       19908/786432   ( 2.5%) 
+nodes                  831/65536       26592/2097152  ( 1.3%) 
+texinfos               245/12288       17640/884736   ( 2.0%) 
+texdata                  7/4096          224/131072   ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  877/65536       49112/3670016  ( 1.3%) 
+hdr faces              877/65536       49112/3670016  ( 1.3%) 
+origfaces              453/65536       25368/3670016  ( 0.7%) 
+facebrushes            114/0             228/0        ( 0.0%) 
+facebrushlists         877/0            3508/0        ( 0.0%) 
+leaves                 834/65536       26688/2097152  ( 1.3%) 
+leaffaces              993/65536        1986/131072   ( 1.5%) 
+leafbrushes            555/65536        1110/131072   ( 0.8%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5953/512000      23812/2048000  ( 1.2%) 
+edges                 3545/256000      14180/1024000  ( 1.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            107/32768        1070/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1629/65536        3258/131072   ( 2.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      635752/0        ( 0.0%) 
+visdata               [variable]       45606/16777216 ( 0.3%) 
+entdata               [variable]         756/393216   ( 0.2%) 
+LDR ambient table      834/65536        3336/262144   ( 1.3%) 
+HDR ambient table      834/65536        3336/262144   ( 1.3%) 
+LDR leaf ambient       834/65536       23352/1835008  ( 1.3%) 
+HDR leaf ambient      5287/65536      148036/1835008  ( 8.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       70420/4194304  ( 1.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 2390
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+5 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 46
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (52969 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 281 texinfos to 190
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 294 portalclusters
+ 988 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 319 visible clusters (0.00%)
+Total clusters visible: 50345
+Average clusters visible: 171
+Building PAS...
+Average clusters audible: 294
+visdatasize:23822  compressed from 23520
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+601 faces
+319209 square feet [45966224.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+601 patches before subdivision
+9409 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 449090, max 310
+transfer lists:   3.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(191538, 58424, 8120)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(52475, 5582, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(17062, 595, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5701, 66, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2009, 8, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(714, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(262, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(97, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0016 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                147/8192         1764/98304    ( 1.8%) 
+brushsides             941/81920        7528/655360   ( 1.1%) 
+planes                 606/65536       12120/1310720  ( 0.9%) 
+vertexes              1131/65536       13572/786432   ( 1.7%) 
+nodes                  596/65536       19072/2097152  ( 0.9%) 
+texinfos               190/12288       13680/884736   ( 1.5%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  601/65536       33656/3670016  ( 0.9%) 
+hdr faces              601/65536       33656/3670016  ( 0.9%) 
+origfaces              356/65536       19936/3670016  ( 0.5%) 
+facebrushes             86/0             172/0        ( 0.0%) 
+facebrushlists         601/0            2404/0        ( 0.0%) 
+leaves                 599/65536       19168/2097152  ( 0.9%) 
+leaffaces              698/65536        1396/131072   ( 1.1%) 
+leafbrushes            415/65536         830/131072   ( 0.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             4203/512000      16812/2048000  ( 0.8%) 
+edges                 2527/256000      10108/1024000  ( 1.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             65/32768         650/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1035/65536        2070/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      346572/0        ( 0.0%) 
+visdata               [variable]       23822/16777216 ( 0.1%) 
+entdata               [variable]         756/393216   ( 0.2%) 
+LDR ambient table      599/65536        2396/262144   ( 0.9%) 
+HDR ambient table      599/65536        2396/262144   ( 0.9%) 
+LDR leaf ambient       599/65536       16772/1835008  ( 0.9%) 
+HDR leaf ambient      3741/65536      104748/1835008  ( 5.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       52969/4194304  ( 1.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 1582
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 52
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (76933 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 391 texinfos to 270
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 417 portalclusters
+1356 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 587 visible clusters (0.00%)
+Total clusters visible: 88218
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 417
+visdatasize:46462  compressed from 46704
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+950 faces
+322988 square feet [46510368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+950 patches before subdivision
+15716 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 762629, max 466
+transfer lists:   5.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(302296, 91139, 11351)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84389, 8831, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(26942, 936, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8826, 101, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3028, 11, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1057, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(381, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(139, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(52, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(20, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                212/8192         2544/98304    ( 2.6%) 
+brushsides            1378/81920       11024/655360   ( 1.7%) 
+planes                 880/65536       17600/1310720  ( 1.3%) 
+vertexes              1753/65536       21036/786432   ( 2.7%) 
+nodes                  842/65536       26944/2097152  ( 1.3%) 
+texinfos               270/12288       19440/884736   ( 2.2%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  950/65536       53200/3670016  ( 1.4%) 
+hdr faces              950/65536       53200/3670016  ( 1.4%) 
+origfaces              544/65536       30464/3670016  ( 0.8%) 
+facebrushes            118/0             236/0        ( 0.0%) 
+facebrushlists         950/0            3800/0        ( 0.0%) 
+leaves                 846/65536       27072/2097152  ( 1.3%) 
+leaffaces             1109/65536        2218/131072   ( 1.7%) 
+leafbrushes            568/65536        1136/131072   ( 0.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             6650/512000      26600/2048000  ( 1.3%) 
+edges                 3952/256000      15808/1024000  ( 1.5%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            107/32768        1070/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1692/65536        3384/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      603960/0        ( 0.0%) 
+visdata               [variable]       46462/16777216 ( 0.3%) 
+entdata               [variable]        1934/393216   ( 0.5%) 
+LDR ambient table      846/65536        3384/262144   ( 1.3%) 
+HDR ambient table      846/65536        3384/262144   ( 1.3%) 
+LDR leaf ambient       846/65536       23688/1835008  ( 1.3%) 
+HDR leaf ambient      4987/65536      139636/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       76933/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 2579
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+5 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.vmf
+Map revision 54
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78045 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 401 texinfos to 280
+Reduced 6 texdatas to 6 (126 bytes to 126)
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+16 threads
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+reading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.prt
+ 417 portalclusters
+1356 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 587 visible clusters (0.00%)
+Total clusters visible: 88218
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 417
+visdatasize:46462  compressed from 46704
+writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+962 faces
+328336 square feet [47280416.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+962 patches before subdivision
+15728 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 763453, max 465
+transfer lists:   5.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(302903, 91338, 11390)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(84478, 8843, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(26962, 937, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8831, 102, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3030, 11, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1058, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(382, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(139, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(52, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(20, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                214/8192         2568/98304    ( 2.6%) 
+brushsides            1390/81920       11120/655360   ( 1.7%) 
+planes                 896/65536       17920/1310720  ( 1.4%) 
+vertexes              1769/65536       21228/786432   ( 2.7%) 
+nodes                  854/65536       27328/2097152  ( 1.3%) 
+texinfos               280/12288       20160/884736   ( 2.3%) 
+texdata                  6/4096          192/131072   ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  962/65536       53872/3670016  ( 1.5%) 
+hdr faces              962/65536       53872/3670016  ( 1.5%) 
+origfaces              556/65536       31136/3670016  ( 0.8%) 
+facebrushes            118/0             236/0        ( 0.0%) 
+facebrushlists         962/0            3848/0        ( 0.0%) 
+leaves                 860/65536       27520/2097152  ( 1.3%) 
+leaffaces             1121/65536        2242/131072   ( 1.7%) 
+leafbrushes            570/65536        1140/131072   ( 0.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             6746/512000      26984/2048000  ( 1.3%) 
+edges                 4000/256000      16000/1024000  ( 1.6%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          2/8192          200/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            107/32768        1070/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1692/65536        3384/131072   ( 2.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]      603960/0        ( 0.0%) 
+visdata               [variable]       46462/16777216 ( 0.3%) 
+entdata               [variable]        2088/393216   ( 0.5%) 
+LDR ambient table      860/65536        3440/262144   ( 1.3%) 
+HDR ambient table      860/65536        3440/262144   ( 1.3%) 
+LDR leaf ambient       860/65536       24080/1835008  ( 1.3%) 
+HDR leaf ambient      4983/65536      139524/1835008  ( 7.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74434/0        ( 0.0%) 
+physics               [variable]       78045/4194304  ( 1.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 7e
+
+Total triangle count: 2603
+Writing d:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\levels\de_ramon3\sources\hammer\de_ramon3.bsp', but we don't own that location. Allowing...
+5 seconds elapsed
