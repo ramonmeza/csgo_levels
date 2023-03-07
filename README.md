@@ -2,6 +2,7 @@
 
 A repository for my Counter-Strike: Global Offensive maps.
 
+
 ## Hammer++ Options
 
 Here are my settings in [Hammer++](https://ficool2.github.io/HammerPlusPlus-Website/), accessible through `Tools > Options` from the top toolbar.
@@ -21,5 +22,12 @@ Here are my settings in [Hammer++](https://ficool2.github.io/HammerPlusPlus-Webs
 | 3D Views            | Detail render distance          | `1500`                        |
 
 
-# Licensing
+## Useful Links
+
+- [World of Level Design](https://www.worldofleveldesign.com/categories/cat-csgo.php)
+- [TopHATTwaffle](https://www.tophattwaffle.com/)
+
+
+## Licensing
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Ramon's CS:GO Levels</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ramonmeza" property="cc:attributionName" rel="cc:attributionURL">Ramon Meza</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ramonmeza/csgo_levels" rel="dct:source">https://github.com/ramonmeza/csgo_levels</a>.
